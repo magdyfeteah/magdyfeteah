@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 📫 How to reach me **magdy.fetea@gmail.com**
+- 📫 How to reach me **magdy.feteah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
