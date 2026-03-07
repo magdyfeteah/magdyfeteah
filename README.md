@@ -3,62 +3,37 @@
 
 ---
 
-### 👨‍💻 About Me
+👨‍💻 About Me
 
-* 💻 Full-Stack Web Developer with a strong interest in **Backend Development**
-* ⚙️ Experienced in building **scalable web applications and APIs**
-* 🚀 Passionate about **clean architecture, performance, and problem solving**
-* 🌱 Currently improving my skills in **Computer Science & System Design**
+💻 Full-Stack Web Developer with a strong interest in Backend Development
 
----
+⚙️ Experienced in building scalable web applications and APIs
 
-### 🛠 Tech Stack
+🚀 Passionate about clean architecture, performance, and problem-solving
 
-#### Frontend
+🌱 Currently improving my knowledge in Computer Science & System Design
 
-* Next.js
-* React
-* Redux Toolkit
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Tailwind CSS
+🛠 Tech Stack
+Frontend
 
-#### Backend
+Next.js • React • Redux Toolkit • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
 
-* ASP.NET Core
-* C#
-* LINQ
-* Entity Framework Core
-* REST APIs
+Backend
 
-#### Databases
+ASP.NET Core • C# • LINQ • Entity Framework Core • REST APIs
 
-* SQL Server
-* MongoDB
+Databases
 
-#### Tools
+SQL Server • MongoDB
 
-* Git
-* GitHub
-* Netlify
-* Firebase
+Tools
 
----
+Git • GitHub • Netlify • Firebase
 
-### 📫 Contact Me
+📫 Contact Me
 
-* Email: **[magdy.feteah@gmail.com](mailto:magdy.feteah@gmail.com)**
-* LinkedIn:
+📧 Email: magdy.feteah@gmail.com
 
-  <a href="https://linkedin.com/in/magdy-feteah" target="blank">
+💼 LinkedIn: https://linkedin.com/in/magdy-feteah
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=magdyfeteah&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=magdyfeteah&theme=tokyonight" />
-</p>
+📊 GitHub Stats
